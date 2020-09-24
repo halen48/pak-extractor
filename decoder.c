@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define ROOT_PATH "S:\\Off-Games\\Arcturus\\teste.txt"
-
 typedef unsigned long long uint64;
 typedef unsigned char uint8;
 typedef short unsigned int uint16;
