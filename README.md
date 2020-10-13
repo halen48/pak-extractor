@@ -1,5 +1,5 @@
 # pak-extractor
-This simple python script will extract data from game ```.pak``` files, such as Arcturus.
+This simple python script will extract data from game ```.pak``` files, such as Arcturus. In other words, this is a LZ78-algorithm decoder.
 
 The script sometimes need a time to extract all files (it depends for the size of the .pak). 
 Because of that, the script won't restract the extracted files, unless you run the command line "forced" (i.e. ```python3 read_pak.py forced```).
